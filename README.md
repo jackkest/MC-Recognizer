@@ -1,4 +1,4 @@
-# MP-Recognizer
+# MC-Recognizer
 A statistic information generator for videos using facial recognition and python’s computer vision library (Tested in Python 3.10.4)
 Developed for Unix-like Systems.
 #### This program is mainly intended for videos longer than 15 minutes, but can be modified to be used for shorter or longer videos.
